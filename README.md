@@ -298,6 +298,22 @@ Add to your `~/.profile`:
 ~/fix-xfce-workspaces.sh 2>/dev/null
 ```
 
+Alternative via xfce autostart:
+(replace user in ```Exec=/home/user/fix-xfce-workspaces.sh/fix-xfce-workspaces.sh``` with your actual username)
+```bash
+cat > ~/.config/autostart/fix-xfce-workspaces.desktop << EOF
+[Desktop Entry]
+Type=Application
+Name=Fix XFCE Workspaces
+Exec=/home/user/fix-xfce-workspaces.sh/fix-xfce-workspaces.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+EOF
+```
+
+now re-login
+
 ## 🆘 Recovery Options
 
 If something goes wrong during upgrade:

@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Debian Version](https://img.shields.io/badge/Debian-12%20→%2013-red.svg)](https://www.debian.org/)
-[![Stars](https://img.shields.io/github/stars/yourusername/debian-upgrade-guide?style=social)](https://github.com/1270011/upgrade-debian-12-to-debian-13)
+[![Stars](https://img.shields.io/github/stars/yourusername/debian-upgrade-guide?style=social)]([https://github.com/1270011/upgrade-debian-12-to-debian-13](https://github.com/1270011/upgrade-debian-12-to-debian-13))
 
 > A comprehensive, battle-tested guide for upgrading Debian 12 (Bookworm) to Debian 13 (Trixie) with minimal downtime and maximum safety.
 
